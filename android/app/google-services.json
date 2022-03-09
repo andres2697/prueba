@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "519653301005",
+    "firebase_url": "https://siosapp-335118-default-rtdb.firebaseio.com",
+    "project_id": "siosapp-335118",
+    "storage_bucket": "siosapp-335118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519653301005:android:5f711aae2746887cb7ae44",
+        "android_client_info": {
+          "package_name": "com.example.prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519653301005-ln7bmcru0e2qcpdmo3nidjta3c5d65mo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL6SrNElBbvIVhJtW3t_K4cn8OasyznsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519653301005-ln7bmcru0e2qcpdmo3nidjta3c5d65mo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "519653301005-psf3jgaoscb2hlgdodn2ph40sldfr1h0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.siosapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519653301005:android:e278f17bf14422d5b7ae44",
+        "android_client_info": {
+          "package_name": "com.example.siosapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519653301005-ln7bmcru0e2qcpdmo3nidjta3c5d65mo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL6SrNElBbvIVhJtW3t_K4cn8OasyznsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519653301005-ln7bmcru0e2qcpdmo3nidjta3c5d65mo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "519653301005-psf3jgaoscb2hlgdodn2ph40sldfr1h0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.siosapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
